@@ -28,4 +28,5 @@
   <li>CRUD completo para Criar, Ler, Alterar e Excluir</li>
   <li>Armazenamento de informações no localStorage</li>
   <li>addEventListener "click" e "submit"</li>
+  <li>innerHTML, forEach, preventDefault(), stringify, toUpperCase, push(), querySelectorAll, getAttribute</li>
 </ul>
