@@ -1,7 +1,7 @@
 <h1>Projeto: Lista de Compras</h1>
 
 <h2>📌 Sobre o Projeto</h2>
-<p>Projeto front-end de um app lista de crompras para auxiliar nas compras, desenvolvido para estudar e práticar JavaScript e bulmaCSS.</p>
+<p>Projeto front-end de um app lista de crompras para auxiliar nas compras, desenvolvido para estudar e praticar JavaScript e bulmaCSS.</p>
 
 <h3>💻<a href="https://deangelleses.github.io/CRUD-lista_de_compras-HTML-CSS-BulmaCSS-JavaScript/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 
